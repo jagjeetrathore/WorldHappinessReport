@@ -5,7 +5,7 @@ Each year since 2012, the United Nations publishes a World Happiness Report deta
  I tried to extract the relationship of factors GDP, freedom to make life choices, family support, and healthy life expectancy with happiness of nations. I hypothesized that mentioned factors increase the happiness of nations. 
 ### Regression Analysis:
 
-### Model  Assumptions:
+### Regression  Assumptions:
 #### (Linearity /Residuals are normal/Check for Homoscedasticity)
 I choose Linear Regression as a predictive Modelling Technique as  response variable is continuous. For Linear Regression I checked a few assumptions so that we can apply Linear regression. First assumption of linearity of predictors with target variables was checked using scatterplots. Variables Trust and Generosity did not show linear relation with target. Second assumption is Residuals are normal. We used residuals instead of the predictors on the y-axis so that we could check for linearity without worrying about other possible violations like collinearity between the predictors. The residual plot reveals that for Economy, Health, Family and Freedom residuals were randomly scattered with no clear pattern. But variables Trust and Generosity were not randomly scattered hence violating the conditions of residuals normality. I performed sqrt transformation to make them linear with target but even after transformation they show little correlation with response.
 ### Feature Selection: 
