@@ -1,8 +1,10 @@
 ## WorldHappinessReport
 
 ### Data Source:
-Each year since 2012, the United Nations publishes a World Happiness Report detailing changes in perception of happiness across the countries. The data for these reports is taken from data collected by Gallop World Poll, World Health Organization, and World Bank. This Happiness score is an average of national responses based upon self-perceived happiness. The datasets for our analysis were open sourced and downloaded from https://www.kaggle.com/mathurinache/world-happiness-report.  
+Each year since 2012, the United Nations publishes a World Happiness Report detailing changes in perception of happiness across the countries. The data for these reports are taken from data collected by **Gallop World Poll**, World Health Organization, and World Bank. This Happiness score is an average of national responses based upon self-perceived happiness. The datasets for our analysis were open sourced and downloaded from https://www.kaggle.com/mathurinache/world-happiness-report.  
  I tried to extract the relationship of factors GDP, freedom to make life choices, family support, and healthy life expectancy with happiness of nations. I hypothesized that mentioned factors increase the happiness of nations. 
+## Type of Data source
+since this data is taken from Survey, so it is observational study.so there is no manipulation in variables.
 ### Regression Analysis:
 
 ### Regression  Assumptions:
